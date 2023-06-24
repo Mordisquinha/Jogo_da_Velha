@@ -1,6 +1,8 @@
 from random import randrange
 from time import sleep
 
+# rafael cuzao
+
 corpo = [['_', '_', '_'],
          ['_', '_', '_'],
          ['_', '_', '_']]
